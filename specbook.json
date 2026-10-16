@@ -1,6 +1,6 @@
 {
  "version": 1,
- "updatedAt": "2026-10-16T18:27:37.379Z",
+ "updatedAt": "2026-10-16T18:28:08.613Z",
  "recipes": [
   {
    "notes": "",
@@ -93,7 +93,7 @@
    "photos": [],
    "ratings": [],
    "createdAt": "2026-10-16T17:30:00.000Z",
-   "updatedAt": "2026-10-16T17:30:00.000Z",
+   "updatedAt": "2026-10-16T18:28:08.296Z",
    "id": "old-fashioned",
    "name": "Old Fashioned",
    "type": "Old Fashioned",
@@ -105,7 +105,7 @@
     {
      "amount": 2,
      "unit": "oz",
-     "name": "Bourbon or rye"
+     "name": "Bourbon"
     },
     {
      "amount": 0.25,
