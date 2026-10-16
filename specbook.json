@@ -1,12 +1,20 @@
 {
  "version": 1,
- "updatedAt": "2026-10-16T18:28:08.613Z",
+ "updatedAt": "2026-10-16T20:48:50.184Z",
  "recipes": [
   {
    "notes": "",
    "source": "River Bar classics menu",
    "photos": [],
-   "ratings": [],
+   "ratings": [
+    {
+     "id": "axd2g9qox478",
+     "who": "Chris",
+     "score": 4,
+     "note": "",
+     "at": "2026-10-16T20:48:49.796Z"
+    }
+   ],
    "createdAt": "2026-10-16T17:30:00.000Z",
    "updatedAt": "2026-10-16T17:30:00.000Z",
    "id": "negroni",
