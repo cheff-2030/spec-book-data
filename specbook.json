@@ -1,6 +1,6 @@
 {
  "version": 1,
- "updatedAt": "2026-10-16T18:16:26.160Z",
+ "updatedAt": "2026-10-16T18:19:50.227Z",
  "recipes": [
   {
    "notes": "",
@@ -170,6 +170,40 @@
     "gin",
     "highball"
    ]
+  },
+  {
+   "id": "5pkquvo5ia16",
+   "name": "Cherry Coffee",
+   "type": "Stirred",
+   "glass": "Rocks",
+   "ice": "Large cube",
+   "garnish": "",
+   "method": "Stirred",
+   "ingredients": [
+    {
+     "amount": 1.75,
+     "unit": "oz",
+     "name": "bourbon"
+    },
+    {
+     "amount": 0.75,
+     "unit": "oz",
+     "name": "coffee liqueur"
+    },
+    {
+     "amount": 0.5,
+     "unit": "oz",
+     "name": "maraschino liqueur"
+    }
+   ],
+   "steps": [],
+   "notes": "Recipe from Tommy",
+   "source": "Tommy",
+   "tags": [],
+   "photos": [],
+   "updatedAt": "2026-10-16T18:19:49.976Z",
+   "createdAt": "2026-10-16T18:19:49.976Z",
+   "ratings": []
   }
  ]
 }
