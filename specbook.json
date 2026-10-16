@@ -1,6 +1,6 @@
 {
  "version": 1,
- "updatedAt": "2026-10-16T18:27:31.439Z",
+ "updatedAt": "2026-10-16T18:27:37.379Z",
  "recipes": [
   {
    "notes": "",
@@ -252,7 +252,15 @@
    ],
    "updatedAt": "2026-10-16T18:27:31.127Z",
    "createdAt": "2026-10-16T18:27:31.127Z",
-   "ratings": []
+   "ratings": [
+    {
+     "id": "z4u2dhpcvilx",
+     "who": "Chris",
+     "score": 5,
+     "note": "",
+     "at": "2026-10-16T18:27:37.077Z"
+    }
+   ]
   }
  ]
 }
