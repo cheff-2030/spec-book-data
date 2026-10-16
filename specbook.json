@@ -1,6 +1,6 @@
 {
  "version": 1,
- "updatedAt": "2026-10-16T18:24:14.610Z",
+ "updatedAt": "2026-10-16T18:27:31.439Z",
  "recipes": [
   {
    "notes": "",
@@ -212,6 +212,47 @@
      "at": "2026-10-16T18:20:27.897Z"
     }
    ]
+  },
+  {
+   "id": "p9fecioyt9l3",
+   "name": "Snap Judgement",
+   "type": "Stirred",
+   "glass": "Rocks",
+   "ice": "Large cube",
+   "garnish": "Grapefruit twist",
+   "method": "Stirred",
+   "ingredients": [
+    {
+     "amount": 1,
+     "unit": "oz",
+     "name": "Gin"
+    },
+    {
+     "amount": 1,
+     "unit": "oz",
+     "name": "Italicus"
+    },
+    {
+     "amount": 0.5,
+     "unit": "oz",
+     "name": "Saler’s"
+    },
+    {
+     "amount": 0.5,
+     "unit": "oz",
+     "name": "Blanc vermouth"
+    }
+   ],
+   "steps": [],
+   "notes": "",
+   "source": "Chandelier Bar in Las Vegas",
+   "tags": [],
+   "photos": [
+    "photos/p9fecioyt9l3-8dna1e9uuveq.jpg"
+   ],
+   "updatedAt": "2026-10-16T18:27:31.127Z",
+   "createdAt": "2026-10-16T18:27:31.127Z",
+   "ratings": []
   }
  ]
 }
