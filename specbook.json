@@ -1,0 +1,175 @@
+{
+ "version": 1,
+ "updatedAt": "2026-10-16T18:16:26.160Z",
+ "recipes": [
+  {
+   "notes": "",
+   "source": "River Bar classics menu",
+   "photos": [],
+   "ratings": [],
+   "createdAt": "2026-10-16T17:30:00.000Z",
+   "updatedAt": "2026-10-16T17:30:00.000Z",
+   "id": "negroni",
+   "name": "Negroni",
+   "type": "Stirred",
+   "method": "Stirred",
+   "glass": "Rocks",
+   "ice": "Large cube",
+   "garnish": "Orange peel",
+   "ingredients": [
+    {
+     "amount": 1,
+     "unit": "oz",
+     "name": "Gin"
+    },
+    {
+     "amount": 1,
+     "unit": "oz",
+     "name": "Campari"
+    },
+    {
+     "amount": 1,
+     "unit": "oz",
+     "name": "Sweet vermouth"
+    }
+   ],
+   "steps": [
+    "Add everything to a mixing glass with ice.",
+    "Stir until well chilled, about 20 seconds.",
+    "Strain over a large cube.",
+    "Express the orange peel over the top and drop it in."
+   ],
+   "tags": [
+    "classic",
+    "bitter",
+    "gin"
+   ]
+  },
+  {
+   "notes": "",
+   "source": "River Bar classics menu",
+   "photos": [],
+   "ratings": [],
+   "createdAt": "2026-10-16T17:30:00.000Z",
+   "updatedAt": "2026-10-16T17:30:00.000Z",
+   "id": "tommys-margarita",
+   "name": "Tommy's Margarita",
+   "type": "Sour",
+   "method": "Shaken",
+   "glass": "Rocks",
+   "ice": "Cubed",
+   "garnish": "Lime wheel",
+   "ingredients": [
+    {
+     "amount": 2,
+     "unit": "oz",
+     "name": "Blanco tequila"
+    },
+    {
+     "amount": 1,
+     "unit": "oz",
+     "name": "Lime juice"
+    },
+    {
+     "amount": 0.5,
+     "unit": "oz",
+     "name": "Agave syrup (1:1)"
+    }
+   ],
+   "steps": [
+    "Shake hard with ice for 10 to 12 seconds.",
+    "Strain over fresh ice.",
+    "Garnish with a lime wheel."
+   ],
+   "tags": [
+    "classic",
+    "tequila",
+    "citrus"
+   ]
+  },
+  {
+   "notes": "",
+   "source": "River Bar classics menu",
+   "photos": [],
+   "ratings": [],
+   "createdAt": "2026-10-16T17:30:00.000Z",
+   "updatedAt": "2026-10-16T17:30:00.000Z",
+   "id": "old-fashioned",
+   "name": "Old Fashioned",
+   "type": "Old Fashioned",
+   "method": "Stirred",
+   "glass": "Rocks",
+   "ice": "Large cube",
+   "garnish": "Orange peel",
+   "ingredients": [
+    {
+     "amount": 2,
+     "unit": "oz",
+     "name": "Bourbon or rye"
+    },
+    {
+     "amount": 0.25,
+     "unit": "oz",
+     "name": "Simple syrup"
+    },
+    {
+     "amount": 2,
+     "unit": "dash",
+     "name": "Angostura bitters"
+    },
+    {
+     "amount": 1,
+     "unit": "dash",
+     "name": "Orange bitters"
+    }
+   ],
+   "steps": [
+    "Add everything to a mixing glass with ice.",
+    "Stir until well chilled and slightly diluted.",
+    "Strain over a large cube.",
+    "Express the orange peel and drop it in."
+   ],
+   "tags": [
+    "classic",
+    "whiskey"
+   ]
+  },
+  {
+   "notes": "",
+   "source": "River Bar classics menu",
+   "photos": [],
+   "ratings": [],
+   "createdAt": "2026-10-16T17:30:00.000Z",
+   "updatedAt": "2026-10-16T17:30:00.000Z",
+   "id": "gin-and-tonic",
+   "name": "Gin & Tonic",
+   "type": "Highball",
+   "method": "Built",
+   "glass": "Highball",
+   "ice": "Cubed",
+   "garnish": "Lime wedge",
+   "ingredients": [
+    {
+     "amount": 2,
+     "unit": "oz",
+     "name": "Gin"
+    },
+    {
+     "amount": null,
+     "unit": "top",
+     "name": "Tonic water"
+    }
+   ],
+   "steps": [
+    "Fill a highball with ice.",
+    "Add the gin, then top with cold tonic.",
+    "Give one gentle stir and garnish."
+   ],
+   "tags": [
+    "classic",
+    "gin",
+    "highball"
+   ]
+  }
+ ]
+}
